@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently working on Java | Spring | React | Nodejs<br>🌱I am looking to collaborate on Reactjs Spring projects<br>👯I am looking for help with learning Nodejs<br>🤔I am currently learning Spring and React<br>💬Ask me about Java, Web, Developer Life and anything in dev universe<br>📫How to Reach me- Email me at ashutoshlancer@gmail.com<br>😄Pronouns (He/Him)<br>⚡You will not be successful if you never failed<br><br><br><br>
+🔭I am currently working on Java | Spring | React | Nodejs<br>🌱I am looking to collaborate on Reactjs Spring projects<br>👯I am looking for help with learning Nodejs<br>🤔I am currently learning Spring and React<br>💬Ask me about Java, Web, Developer Life and anything in dev universe<br>📫How to Reach me- Connect with me on Linkedin<br>😄Pronouns (He/Him)<br>⚡You will not be successful if you never failed<br><br><br><br>
 
 
 ## 🌐 Socials:
